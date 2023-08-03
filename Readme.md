@@ -62,4 +62,8 @@ We welcome contributions to improve the Poetic Phase Generator. To contribute, f
 3. Commit your changes and push them to your fork.
 4. Submit a pull request to the original repository.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 Feel inspired and enjoy the poetic phrases with the Poetic Phase Generator!
