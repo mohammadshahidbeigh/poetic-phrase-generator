@@ -19,7 +19,6 @@ To run the Poetic Phrase Generator locally on your machine, follow these steps:
 
 
 ```
-$ npm create vite@latest ./
 $ npm install
 $ npm start
 ```
