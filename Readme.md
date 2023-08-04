@@ -15,15 +15,6 @@ To run the Poetic Phrase Generator locally on your machine, follow these steps:
 2. Open the `index.html` file in your web browser.
 3. Customize the `name`, `favoriteActivity`, `favoritePlace`, and `temperature` variables in the `index.js` file to personalize your poetic phrases.
 
-## For Quick start:
-
-
-```
-$ npm install
-$ npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about using vite
 
 ## Technologies Used
 
