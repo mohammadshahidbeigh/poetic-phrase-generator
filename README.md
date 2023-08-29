@@ -59,7 +59,7 @@ $ npm start
 We welcome contributions to improve the Poetic Phrase Generator. To contribute, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
+2. Create a new branch for your feature or bug fix ` `.
 3. Commit your changes and push them to your fork.
 4. Submit a pull request to the original repository.
 
