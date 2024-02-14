@@ -1,4 +1,4 @@
-# Poetic Phrase Generatorr
+# Poetic Phrase Generator
 
 ![Screenshot_20230803_003721](https://github.com/mohammadshahidbeigh/poetic-phase-generator/assets/85876937/f982c4de-014e-4d2a-98bb-64d21e7dd09c)
 
