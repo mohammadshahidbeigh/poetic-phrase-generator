@@ -33,7 +33,11 @@ $ npm start
 - OpenAI GPT-3 API
 - Unsplash API
 - Google Fonts (Old Standard TT, Balsamiq Sans, Cinzel, Inconsolata, Sora, Lobster, Metal Mania, MuseoModerno, Noto Sans HK, Pacifico)
-- 
+
+
+## Credits
+- Scrimba for providing the course and API.
+  
 ## Features
 
 - Personalized poetic phrases generated in the style of Oscar Wilde.
