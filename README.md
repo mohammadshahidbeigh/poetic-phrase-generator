@@ -5,7 +5,7 @@
 
 ## Description
 
-The Poetic Phrase Generator is a web application that generates poetic phrases and combines them with beautiful images based on your favorite activity and place. It utilizes the OpenAI GPT-3 model to generate insightful, witty, and satirical phrases in the style of Oscar Wilde. The app fetches random images from Unsplash to match the mood of the generated quotes. Simply input your name, favorite activity, and favorite place, and let the app create a unique poetic phase for you.
+The Poetic Phrase Generator is a web application that generates poetic phrases and combines them with beautiful images based on your favorite activity and place. It utilizes the OpenAI GPT-3.5 model to generate insightful, witty, and satirical phrases in the style of Oscar Wilde. The app fetches random images from Unsplash to match the mood of the generated quotes. Simply input your name, favorite activity, and favorite place, and let the app create a unique poetic phase for you.
 
 ## Getting Started!
 
@@ -30,14 +30,10 @@ $ npm start
 - HTML
 - CSS (with Normalize.css)
 - JavaScript (ES6)
-- OpenAI GPT-3 API
+- OpenAI GPT-3.5 API
 - Unsplash API
 - Google Fonts (Old Standard TT, Balsamiq Sans, Cinzel, Inconsolata, Sora, Lobster, Metal Mania, MuseoModerno, Noto Sans HK, Pacifico)
-
-## Credits
-
-- [Scrimba](https://scrimba.com/) for providing the course and API.
-
+- 
 ## Features
 
 - Personalized poetic phrases generated in the style of Oscar Wilde.
