@@ -36,7 +36,7 @@ $ npm start
 
 
 ## Credits
-- [Scrimba] for providing the course and API.
+- Scrimba for providing the course and API.
   
 ## Features
 
