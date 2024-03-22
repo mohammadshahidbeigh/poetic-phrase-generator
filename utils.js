@@ -93,7 +93,7 @@ async function getQuote(favActivity, favPlace, temperature) {
     presence_penalty: 0,
   };
 
-  let res = await fetch("https://apis.scrimba.com/openai/v1/completions", { // Updated to your GPT 3.5 Chat Completion API Key. 
+  let res = await fetch("https://apis.scrimba.com/openai/v1/completions", { // Update to your GPT 3.5 Chat Completion API Key. 
     method: "POST",
     headers: {
       "Content-Type": "application/json",
