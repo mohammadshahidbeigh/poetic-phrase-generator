@@ -34,9 +34,6 @@ $ npm start
 - Unsplash API
 - Google Fonts (Old Standard TT, Balsamiq Sans, Cinzel, Inconsolata, Sora, Lobster, Metal Mania, MuseoModerno, Noto Sans HK, Pacifico)
 
-
-## Credits
-- [Scrimba](https://scrimba.com/) for providing the course and API.
   
 ## Features
 
