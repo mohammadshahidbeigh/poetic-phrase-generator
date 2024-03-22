@@ -64,7 +64,7 @@ function getDate() {
 async function getImage(query) {
   const response = await fetch(
     `https://apis.scrimba.com/unsplash/photos/random/?count=1&query=${query}`
-  );
+  ); // YOUR Unsplash API Key
 
   if (response.ok) {
     const data = await response.json();
@@ -93,7 +93,7 @@ async function getQuote(favActivity, favPlace, temperature) {
     presence_penalty: 0,
   };
 
-  let res = await fetch("https://apis.scrimba.com/openai/v1/completions", {
+  let res = await fetch("https://apis.scrimba.com/openai/v1/completions", { // YOUR Updated GPT 3.5 Chat Completion API Key
     method: "POST",
     headers: {
       "Content-Type": "application/json",
